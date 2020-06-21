@@ -1,0 +1,14 @@
+{
+  "name": "firebase-functions-emulator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html --out-dir public"
+  },
+  "author": "Omar Houmz <omarhoumz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
