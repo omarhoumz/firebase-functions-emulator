@@ -1,5 +1,6 @@
 public
 dist
+.cache
 
 firebase-debug.log
 
